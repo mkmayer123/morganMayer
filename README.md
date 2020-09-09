@@ -140,3 +140,4 @@ function [] = displayBoard(pieces)
         fprintf(' +-+-+-+-+-+-+-+-+\n');
     end
 end
+
