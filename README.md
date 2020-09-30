@@ -1,4 +1,3 @@
-#gnirtsEsrever
 #Q1
 An algorithm is a logical procedure that guarantees solving a problem. A heuristic is a simple thinking strategy that allows us to make judgements and solve problems efficinetly. Heuristics increase the chance of error but they are faster to do. An example of an algorithm would be a recipe that you follow step-by-step to make a meal. An example of a heuristic would be an educated guess or using the process of trial and error when it comes to solving a problem.
 #Q2
