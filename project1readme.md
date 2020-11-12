@@ -6,3 +6,5 @@ The x and y values need to be the same length or else you will receive an error.
 When entering upper and lower limits, make sure to include two numbers with a comma separating them.
 When you are ready to plot your point, click 'plot' and they should appear. If you decide to change the shape or color, select your choice and click 'plot' again to refresh.
 The program will still run even if you decide to leave some of these blank. You can reset the plot by pressing 'reset'.
+
+Overall, i ran into a lot of problems in this project and wasn't able to full fill all of the requirements.
