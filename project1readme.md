@@ -7,4 +7,4 @@ When entering upper and lower limits, make sure to include two numbers with a co
 When you are ready to plot your point, click 'plot' and they should appear. If you decide to change the shape or color, select your choice and click 'plot' again to refresh.
 The program will still run even if you decide to leave some of these blank. You can reset the plot by pressing 'reset'.
 
-Overall, i ran into a lot of problems in this project and wasn't able to full fill all of the requirements.
+Overall, i ran into a lot of problems in this project and wasn't able to complete all of the requirements. I tried my best and did a lot of research but kept running into too many errors.
