@@ -1,1 +1,7 @@
 Instructions:
+1. Given the parameters and variables.
+2. Input given equations.
+3. Label plot and axis.
+4. For the meshgrid, use the given variables to plug into acceleration and endurance equations.
+5. Use given endurance and acceleration equations to plug in the plot. For the Z axis, use the relationship between endurance and acceleration using E.*a.
+6. Once you've calculated the X,Y,Z, use the surface function to plot the values on the meshgrid.
